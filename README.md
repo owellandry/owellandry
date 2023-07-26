@@ -202,12 +202,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-|  |  |
-|---|---|---|
-|[facebook](https://www.facebook.com/owell.polanc0) | [google](https://g.dev/owell) | [Microsoft](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1360553#profile) |  |
