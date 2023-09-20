@@ -1,4 +1,4 @@
-<h2 align="left">Hola, mi nombre es owell andry, soy un programador junior que crea muchas cosas raras</h2>
+<h2 align="left">Hola, mi nombre es owell andry, soy un programador senior que crea muchas cosas raras</h2>
 
 ###
 
