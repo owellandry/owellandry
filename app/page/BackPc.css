@@ -1,9 +1,0 @@
-.container-folder{
-    cursor: pointer;
-    display: flex;
-    flex-direction: column;
-}
-
-.container-folder-bdr{
-    border-radius: 10px;
-}
