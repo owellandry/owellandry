@@ -1,0 +1,51 @@
+/* style.module.css */
+.modal-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.vscode-icon {
+    position: relative;
+}
+
+.icon-text {
+    position: absolute;
+    bottom: calc(100% + 10px);
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(66, 66, 66, 0.8);
+    color: #fff;
+    padding: 8px;
+    border-radius: 5px;
+    opacity: 0;
+    transition: opacity 0.3s, transform 0.3s;
+    pointer-events: none;
+    white-space: nowrap;
+}
+
+.vscode-icon:hover .icon-text {
+    opacity: 1;
+    transform: translate(-50%, -5px);
+}
+
+.settings-vscode {
+    cursor: pointer;
+    transition: transform 0.3s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.settings-vscode:hover {
+    transform: scale(1.2);
+}
