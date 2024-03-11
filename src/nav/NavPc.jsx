@@ -6,7 +6,6 @@ import Discord from '../layout/discord/index'
 import Console from '../layout/console/index'
 import Chrome from '../layout/chrome/index'
 
-
 import './NavPc.css'
 
 export default function Home() {
