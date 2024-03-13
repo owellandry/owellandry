@@ -1,4 +1,5 @@
-/* style.module.css */
+ /* src/layout/style.module.css */
+
 
 .chrome-icon {
     position: relative;
@@ -32,3 +33,5 @@
 .settings-chrome:hover {
     transform: scale(1.2);
 }
+
+

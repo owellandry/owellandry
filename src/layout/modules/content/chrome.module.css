@@ -1,0 +1,15 @@
+/* src/layout/modules/chrome.module.css */
+
+.ContentCode {
+    margin: 20px;
+    border-radius: 25px;
+}
+
+.CodeCont{
+    background-color: #282828;
+    border-radius: 0px 0px 10px 10px;
+}
+
+pre{
+    border-radius: 15px;
+}
